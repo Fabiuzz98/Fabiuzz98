@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋😊
+
+My name is Fabio Diamanti and I am an enthusiast front-end developer. I studied computer science in high school to then straight away start working in another field untill 1 year ago when I decided it was time to change my life and so.... I left my job and got back to studying computer science again. Since then I've been studying and coding every day and I literally fell in love with it more than ever. Everyday is a new challenge and an opportunity to learn something new and improve my skills. In this past year I've learnt html, css, javascript, sass, vue js and firebase to make things spicier 😜. I know I'm surely considered a beginner but I'm enjoying the process and the fact that it's a never ending learning journey.
+
 
 <!--
-**Fabiuzz98/Fabiuzz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
