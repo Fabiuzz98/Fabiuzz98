@@ -1,7 +1,7 @@
 ### Hi everyone 👋😊
 
 My name is Fabio Diamanti and I am an enthusiast front-end developer. <br> 
-I studied computer science in high school to then straight away start working in another field untill 1 year ago when I decided it was time to change my life and so.... I left my job and got back to studying computer science again. <br><br> Since then I've been studying and coding every day and I literally fell in love with it more than ever. <br> Everyday is a new challenge and an opportunity to learn something new and improve my skills. In this past year I've learnt html, css, javascript, sass, vue js, how to work with APIs and firebase to make things spicier 😜... Oh yeah and I thought to myself, why not learn how to make them responsive as well 😁. <br> <br> I'm enjoying the process and the fact that it's a never ending learning journey makes me sure to want this to become my future job.
+I studied computer science in high school to then straight away start working in another field untill 1 year ago when I decided it was time to change my life and so.... I left my job and got back to studying computer science again. <br><br> Since then I've been studying and coding every day and I literally fell in love with it more than ever. <br> Everyday is a new challenge and an opportunity to learn something new and improve my skills. In this past year I've learnt html, css, javascript, sass, vue js, how to work with APIs and Firebase ... Oh yeah and I thought to myself, why not learn how to make them responsive as well 😁. <br> <br> I'm enjoying the process and the fact that it's a never ending learning journey makes me sure to want this to become my future job.
 
 
 <!--
